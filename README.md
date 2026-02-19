@@ -14,11 +14,11 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS Y COMPUTACIÓN
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🧑‍🎓Estudiante de Ing. Sistemas y Computación que busca aprender, desarrollar e implementar
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... 
 
 📫 Contacto: **wellington.rodriguez.urbaez.2005@gmail.com**
 <!--Intro end-->
@@ -41,8 +41,8 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+     <a href="https://youtu.be/dkqpeeGelXk?si=nPwUsUmYTdIDnq56" title="Go to Source">
+        <img align="center" width=100% src="https://i.ytimg.com/vi/dkqpeeGelXk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLADz_T2AbOofFxmkbRsOwJjgpoKqA"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
