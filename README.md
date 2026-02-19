@@ -5,7 +5,7 @@
 <a href="https://www.tiktok.com/" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href="https://do.linkedin.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://www.facebook.com/wellington.rodriguezulvaez" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "correo a: wellington.rodriguez.urbaez.2005@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:wellington.rodriguez.urbaez.2005@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
