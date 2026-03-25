@@ -45,28 +45,28 @@
         <img align="center" width=100% src="https://i.ytimg.com/vi/dkqpeeGelXk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLADz_T2AbOofFxmkbRsOwJjgpoKqA"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://www.webmintor.net/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/@usuario5772" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://drive.google.com/file/d/1tNtCifZqFwuw8pEyAFJuOYKxmrBs1Rld/view?usp=sharing" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+     <a href="https://www.webmintor.net/" title="Go to Source">
+        <img align="center" width=100% src="https://drive.google.com/file/d/1tNtCifZqFwuw8pEyAFJuOYKxmrBs1Rld/view?usp=sharing"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtu.be/dkqpeeGelXk?si=nPwUsUmYTdIDnq56" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+     <a href="https://kendrytoo.webmintor.net/" title="Go to Source">
+        <img align="center" width=100% src="https://drive.google.com/file/d/18XI1KdLMZ3-ZpTRL-sFwqK9N561GNWgX/view?usp=sharing"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/@kendry_y2" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
