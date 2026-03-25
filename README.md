@@ -52,7 +52,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://www.webmintor.net/" title="Go to Source">
-        <img align="center" width=100% src="https://drive.google.com/file/d/1tNtCifZqFwuw8pEyAFJuOYKxmrBs1Rld/view?usp=sharing"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/wellington-rodriguez/wellington-rodriguez/blob/main/Webmintor.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/dkqpeeGelXk?si=nPwUsUmYTdIDnq56" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -63,7 +63,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://kendrytoo.webmintor.net/" title="Go to Source">
-        <img align="center" width=100% src="https://drive.google.com/file/d/18XI1KdLMZ3-ZpTRL-sFwqK9N561GNWgX/view?usp=sharing"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/wellington-rodriguez/wellington-rodriguez/blob/main/Kendrytoo.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://www.youtube.com/@kendry_y2" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
