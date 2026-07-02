@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS Y COMPUTACIÓN
 
-🧑‍🎓Estudiante de Ing. Sistemas y Computación que busca aprender, desarrollar e implementar
+🧑‍🎓Estudiante de termino de Ing. Sistemas y Computación que busca aprender, desarrollar e implementar
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
 
